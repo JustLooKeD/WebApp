@@ -1,6 +1,6 @@
 let tg = window.Telegram.WebApp;
 
-tg.expang();
+tg.expand();
 
 tg.MainButton.text = "Changed Text"; //изменяем текст кнопки 
 tg.MainButton.setText("Changed Text1"); //изменяем текст кнопки иначе
